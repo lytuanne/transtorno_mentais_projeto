@@ -1,9 +1,9 @@
-#Análise de Transtornos Mentais Relacionados ao Trabalho – Brasil (2025)
+Análise de Transtornos Mentais Relacionados ao Trabalho – Brasil (2025)
 
-##📌 Visão Geral do Projeto##
+📌 Visão Geral do Projeto
 Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre os Transtornos Mentais Relacionados ao Trabalho (TMRT) notificados no Brasil ao longo de 2025. Utilizando os microdados oficiais do Sistema de Informação de Agravos de Notificação (SINAN / DataSUS), o objetivo foi investigar o perfil sociodemográfico dos trabalhadores acometidos, as patologias mais recorrentes, o impacto nas atividades laborais e o nível de subnotificação da Comunicação de Acidente de Trabalho (CAT).
 
-##🔍 Principais Descobertas##
+🔍 Principais Descobertas
 1. Volume e Abrangência: A base bruta nacional (MENTBR25) reúne 6.338 registros de notificações distribuídos por todas as 27 Unidades da Federação, demonstrando o panorama epidemiológico formal do país em 2025.
 
 2. Prevalência de Gênero: Há uma expressiva predominância feminina nas notificações: as mulheres representam mais de 72% dos casos (4.587 registros), concentrando diagnósticos de transtornos ansiosos e esgotamento profissional (Burnout).
@@ -17,9 +17,9 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre os Transtor
 6. Subnotificação Crônica da CAT: Apenas cerca de 28% dos casos com nexo ocupacional reconhecido no SUS tiveram a emissão da Comunicação de Acidente de Trabalho (CAT), evidenciando uma lacuna estrutural de proteção previdenciária e visibilidade corporativa.
 
 
-### Conclusões##
+Conclusões
 
-### O que este projeto mostra?##
+O que este projeto mostra?
 
 A "Ponta do Iceberg" e a Falta de Registro (CAT):
 O número de casos que chega ao SUS é só uma pequena parte da realidade. Pior ainda: mesmo quando o médico confirma que a pessoa adoeceu por causa do trabalho, menos de 30% das empresas emitem a CAT (Comunicação de Acidente de Trabalho). O adoecimento acaba sendo tratado como um "problema particular", deixando o trabalhador sem os direitos legais garantidos por lei.
@@ -33,7 +33,7 @@ Mais de 70% dos registros são de mulheres. Isso deixa evidente o peso da dupla 
 Ansiedade e Esgotamento (Burnout) no Topo:
 O ritmo acelerado, metas pesadas e clima tenso fazem da ansiedade e do Burnout os principais motivos de adoecimento, forçando a grande maioria dessas pessoas a se afastar completamente do trabalho para conseguir se recuperar.
 
-### Qual é o Impacto Prático deste Estudo?##
+Qual é o Impacto Prático deste Estudo?
 
 **Para a Sociedade e a Justiça:** Tirar o problema da invisibilidade: Prova com números que depressão, ansiedade e Burnout causados pelo trabalho são acidentes de trabalho legítimos, e não "frescura" ou fraqueza individual.
 
